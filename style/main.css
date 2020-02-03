@@ -1,0 +1,195 @@
+header{
+
+  height: 163px;
+
+}
+
+body{
+
+  padding: 0;
+  margin: 0;
+  font-family: "Playfair Display";
+
+}
+
+.container{
+
+  width: 1061px;
+  margin: 0 auto;
+
+}
+
+.logo{
+
+  margin-top: 68px;
+
+}
+
+.nav-wrapper ul{
+
+  float: right;
+  list-style-type: none;
+
+}
+
+.nav-wrapper ul li{
+
+  float:left;
+  margin: 44px;
+  margin-top: -39px;
+
+}
+
+.nav-wrapper ul li:last-child{
+
+  margin-right: 0;
+
+}
+
+a{
+
+  text-transform: uppercase;
+  color: #626262;
+  width: 71px;
+  height: 11px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: none;
+
+}
+
+
+
+.title-img{
+
+  height: 509px;
+  background: url(../img/image.png)no-repeat center top / cover;
+
+}
+
+.svg1{
+
+  margin-top: 99px;
+  margin-left: 81px;
+  margin-bottom: 28px;
+
+}
+
+.svg2{
+
+  margin-top: 12px;
+  margin-left: 81px;
+  margin-bottom: 28px
+
+}
+
+.text{
+
+  margin-left: 81px;
+  margin-bottom: 52px;
+
+}
+
+.gallery{
+  margin-left: 81px;
+  margin-top: 115px;
+  display: flex;
+}
+
+.gallery-img{
+  width: 279px;
+  height: 420px;
+  margin-right: 200px;
+}
+
+.img{
+  margin-left: auto;
+}
+
+.gallery-svg{
+  margin-top: 32px;
+  margin-bottom: 28px;
+}
+
+.gallery-text{
+
+  margin-top: 14px;
+  weight: 414px;
+  height: 63px;
+
+}
+
+.gallery-h1{
+
+  margin-left: auto;
+
+}
+
+footer{
+
+  position: fixed;
+  left: 0;
+  top: 90%;
+  bottom: 0;
+  padding: 10px;
+  background-color: #f0f0f0;
+  color: #000000;
+  width: 100%;
+
+}
+
+.footer-wrapper1 ul{
+
+  float: left;
+  margin: auto;
+  list-style-type: none;
+
+}
+
+.footer-wrapper1 ul li{
+
+  float:left;
+  margin: 20px;
+  margin-top: 20px;
+
+}
+
+.footer-wrapper2 ul{
+
+  float: right;
+  margin: auto;
+  list-style-type: none;
+
+}
+
+.footer-wrapper2 ul li{
+
+  float:left;
+  margin: 18px;
+  margin-top: 20px;
+
+}
+
+p{
+
+  margin-top: auto;
+  width: 497px;
+  height: 30px;
+  color: #626262;
+  font-size: 30px;
+  font-weight: 400;
+  margin-left: 81px;
+
+}
+
+h3{
+
+  width: 893px;
+  height: 183px;
+  color: #626262;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+
+}
